@@ -69,20 +69,41 @@ The project involves several tasks:
 
 ### 1. Data Preparation
 - In this step, we run the provided package dependency and import data. Then, we merge the `mouse_metadata` and `study_results` DataFrames into a single DataFrame. Display the number of unique mouse IDs in the data and check for any mouse ID with duplicate time points. Display the data associated with that mouse ID and create a new DataFrame where this data is stored. Use this cleaned DataFrame for the remaining steps, and print the updated number of unique mouse IDs, which is 249.
+  
+![image](https://github.com/svuth23/Matplotlib-challange-pymaceutical/assets/136966712/1ee1bc8a-02cd-4933-8d4a-bcba7db8695a)
+
+
 
 ### 2.Summary Statistics
 -We Created a DataFrame of summary statistics called drug_stat_data_df. The summary statistics should include a row for each drug regimen. These regimen names are contained in the index column. In this step, find out the mean, median, variance, standard deviation, and SEM of the tumor volume.
 
+![image](https://github.com/svuth23/Matplotlib-challange-pymaceutical/assets/136966712/79f4f8a0-c75c-4cf2-b691-ca917b5a46ce)
+
+
 ### 3.  Bar Charts and Pie Charts
-- Create the first bar chart with the Pandas DataFrame.plot() method.
-- Create the second bar chart with Matplotlib's pyplot method.
+- We Created the first bar chart with the Pandas DataFrame.plot() method and Matplotlib's pyplot method.
+![image](https://github.com/svuth23/Matplotlib-challange-pymaceutical/assets/136966712/d2ed4c01-a465-4566-999f-0369af1ce04a)
+
+
+
+- ![image](https://github.com/svuth23/Matplotlib-challange-pymaceutical/assets/136966712/bc3a811a-842c-4613-a274-d9d75175074c)
+
+
 
 ### 4.  Quartiles, Outliers, and Created a Boxplot
 
+![image](https://github.com/svuth23/Matplotlib-challange-pymaceutical/assets/136966712/4428578b-a890-4c73-8517-c8e51d52cf8f)
+
+
+
 ### 5. Created a Line Plot and a Scatter Plot
+
+![image](https://github.com/svuth23/Matplotlib-challange-pymaceutical/assets/136966712/c5ce544b-8d4c-41cd-a862-1c1b63241070)
 
 ### 6. Correlation and Regression
 - perform correlation and  regression analysis using Matplotlib in Jupyter Notebook. The result is that the regression analysis helps predict the change in average tumor volume based on mouse weight. The R-squared value of 0.70 suggests that 70% of the model fits the data, indicating a reasonably good fit. Higher R-squared values indicate a better fit of the model to the data.
+
+![image](https://github.com/svuth23/Matplotlib-challange-pymaceutical/assets/136966712/9a05924f-591e-4a38-8759-a69d9c5f3531)
 
 
 Results
