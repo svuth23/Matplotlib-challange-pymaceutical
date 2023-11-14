@@ -1,9 +1,9 @@
 # Matplotlib-challange-pymaceutical
-#Pymaceutical challange
-##Pharmaceutical Data Analysis 
+#  Pymaceutical challange
+## Pharmaceutical Data Analysis 
 
 
-Overview
+## Overview
 This data analysis project is focused on analyzing data from pharmaceutical company , using Python Matplotlib to visualize data and compare different drugs and make decisions regarding particular drug(Capomilin). 
 
 Background
