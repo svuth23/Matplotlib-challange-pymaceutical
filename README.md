@@ -1,5 +1,5 @@
 # Matplotlib-challange-pymaceutical
-Pymaceutical challange
+#Pymaceutical challange
 ##Pharmaceutical Data Analysis 
 
 
