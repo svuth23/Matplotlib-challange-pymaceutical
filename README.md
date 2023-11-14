@@ -6,9 +6,9 @@
 ## Overview
 This data analysis project is focused on analyzing data from pharmaceutical company , using Python Matplotlib to visualize data and compare different drugs and make decisions regarding particular drug(Capomilin). 
 
-Background
+## Background
 
-###A new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
+ A new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 As a data analyst at the company, I've been given access to the complete data from their most recent animal study. In this study, 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals drug of interest, Capomulin, against the other treatment regimens.
 Our main aim in this project is generating all of the tables and figures needed for the technical report of the clinical study. They have also asked us for a top-level summary of the study results.
 
@@ -36,14 +36,18 @@ The analysis has generated various DataFrames that showcase the distribution of 
    - Among the selected treatments, Capomulin and Ramicane emerge as more effective in reducing tumor sizes compared to others.
 
 
-##Project Structure
+## Project Structure
 
-pymaceuticals folder containd csv files about mice study .This directory contains the raw data files used in the analysis.
-pymaceuticals_starter.ipynb: script about
-README.md: The file you are currently reading, providing an overview of the project.
+ ### pymaceuticals :
+ folder containd csv files about mice study .This directory contains the raw data files used in the analysis.
+### pymaceuticals_starter.ipynb:
+script about
+### README.md: 
+The file you are currently reading, providing an overview of the project.
 
 ##Table of Contents
-### Table of Contents include Tasks
+### Table of Contents
+include Tasks
 1. Preparing the Data
 2. Generate Summary Statistics
 3. Created Bar Charts and Pie Charts
@@ -53,7 +57,7 @@ README.md: The file you are currently reading, providing an overview of the proj
 7. Results
 
 
-##Prerequisites
+## Prerequisites
  To produce this analysis, we will need the following tools and libraries:
 
  Python
@@ -106,14 +110,14 @@ The project involves several tasks:
 ![image](https://github.com/svuth23/Matplotlib-challange-pymaceutical/assets/136966712/9a05924f-591e-4a38-8759-a69d9c5f3531)
 
 
-Results
+## Results
 The analysis results in various DataFrames , showcasing the distribution of mice across drug regimens, gender, and the relationship between mouse weight and tumor volume. The effectiveness of specific treatments is also highlighted.Among the selected treatments, Capomulin and Ramicane stand out as more effective in reducing tumor sizes.
 
 
-About
+## About
 -These projects were completed as part of Data Analysis Bootcamp.
 
-Contact
+## Contact
 If there are any questions or concerns, I can be reached at:
 
  github: svuth23
